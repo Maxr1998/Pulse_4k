@@ -1,0 +1,12 @@
+# KiCAD backup files
+*.bak
+*.kicad_pcb-bak
+
+# Temporary files
+*-cache.lib
+*-rescue.lib
+fp-info-cache
+fp-lib-table
+
+# Netlist files (exported from Eeschema)
+*.net
